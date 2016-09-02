@@ -11,3 +11,4 @@ Learning how to use git
 
 * Jane Doe - jane.doe@duke.edu
 
+* Tyler Rundel - trundel@gmail.com
